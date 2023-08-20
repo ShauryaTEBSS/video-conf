@@ -1,0 +1,13 @@
+{
+    local: {
+      videoTrackState: <null>,
+      audioTrackState: <null>
+    },
+    <other-participant-1>: {
+      /*...*/
+    },
+    <other-participant-1>-screen: {
+      /*...*/
+    },
+    /* ... */
+}
